@@ -1,4 +1,4 @@
-# Hi there, I'm Shabana Anwar 👋 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b82f155a-10f3-42f1-8bc5-2598305f868d" /># Hi there, I'm Shabana Anwar 👋 
 
 ### 🧬 Genetic Engineering Student | Computational Biologist & Bioinformatician
 
@@ -33,7 +33,7 @@ NCBI (BLAST, SRA, ClinVar) | Ensembl | UCSC Genome Browser | COSMIC
 ### 📂 [In Silico Analysis of BRCA1 Variant Pathogenicity](https://github.com/YOUR_USERNAME/brca1-pathogenicity-pipeline)
 An end-to-end computational workflow assessing the structural and functional impacts of specific single nucleotide polymorphisms (SNPs) in the *BRCA1* gene associated with hereditary breast cancer.
 * **Tech:** Python, SnpEff, ClinVar API, Galaxy Cloud.
-* **Output:** Published reproducible pipeline on Zenodo ([DOI: 10.5281/zenodo.XXXXXXX](https://zenodo.org)).
+* **Output:** Published reproducible pipeline on Zenodo ([DOI: 10.5281/zenodo.11497914](https://zenodo.org)).
 
 ### 📂 [NGS Raw Read Quality Control Automation](https://github.com/YOUR_USERNAME/ngs-qc-automation)
 A robust Bash/Python automation script built following intensive training at the Institute of Biotechnology and Genetic Engineering (IBGE). It automates quality assessment, trimming, and summary report generation for raw Illumina paired-end FastQ datasets.
